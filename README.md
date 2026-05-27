@@ -1,7 +1,7 @@
 # Anything good happen today?
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Arch+%2B+Hyprland+Enthusiast;Full-Stack+Developer;Frontend+Animation+Explorer;Self-Hosting+4+the+win" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Arch+%2B+Hyprland+Enthusiast;Full-Stack+Developer;Frontend+Animation+Explorer;Self-Hosting+4+The+Win!" alt="Typing SVG" />
 </div>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
