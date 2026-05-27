@@ -22,12 +22,7 @@
 * 💻 **BTW:** **Arch Linux + Hyprland** enthusiast, enjoying the tiling experience.
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chthollyphile&theme=dracula&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=chthollyphile&show_icons=true&theme=radical&hide_border=true&count_private=true" height="195" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chthollyphile&layout=compact&theme=radical&hide_border=true" height="195" alt="Top Languages" />
+  <a href="https://github.com/chthollyphile"><img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=chthollyphile&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" /></a><a href="https://github.com/chthollyphile"><img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=chthollyphile&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="Top Languages" /></a>
 </div>
 
 ---
