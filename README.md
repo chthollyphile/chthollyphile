@@ -14,6 +14,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-VPS%20%26%20NAS-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+[![Email](https://img.shields.io/badge/Email-fuyukasane%40gmail.com-000000?style=flat-square&logo=mail&logoColor=white)](mailto:fuyukasane@gmail.com)
+
 ### 👨‍💻 About Me
 
 * 🛠️ **Full-Stack:** Building web applications utilizing **React**, **Vite**, **Vercel**, **Cloudflare Workers**, and **Python**.
